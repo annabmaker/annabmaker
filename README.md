@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou a Anna Beatriz!
 
-💻 Tenho 22 anos e sou apaixonada por tecnologia, comunicação e vendas.  
+💻 Tenho 22 anos e eu adoro tecnologia, comunicação e vendas.  
 🎓 Atualmente estou cursando **Desenvolvimento de Sistemas**, onde estou sempre buscando aprender mais sobre lógica de programação, linguagens e autoconhecimento.
 
 ✨ Tenho experiência como vendedora, onde eu desenvolvi um pensamento rápido e trabalho em equipe.
